@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: Lazor_Project_Group10 -- Welcome to the CPW Lazor App Solver
+email: wmontei1@jhu.edu, pluthra2@jhu.edu, spasupu1@jhu.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
@@ -10,3 +10,4 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
